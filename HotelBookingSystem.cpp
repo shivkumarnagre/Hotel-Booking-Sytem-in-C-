@@ -18,7 +18,7 @@ public:
 };
 void hotel::details()
 {
- cout<<endl<<endl<<"********HOTEL RAJ********"<<endl<<endl;
+ cout<<endl<<endl<<"********HOTEL TAJ********"<<endl<<endl;
  int choice;
  while (choice=5)
  {
